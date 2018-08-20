@@ -1,5 +1,5 @@
 # ratalert
-A simple program for Debian-like systems that detects Remote Access Trojans (VNC, RealVNC, TightVNC, UltraVNC, LogMeIn, GoToMyPC and TeamViewer
+A very basic program for Debian-like systems that detects Remote Access Trojans (VNC, RealVNC, TightVNC, UltraVNC, LogMeIn, GoToMyPC and TeamViewer. Written in Python.
 
 
 
