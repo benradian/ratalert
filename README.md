@@ -1,2 +1,2 @@
 # ratalert
-A simple program for Debian-like systems that detects Remote Access Trojans
+A very basic program for Debian-like systems that detects Remote Access Trojans
